@@ -30,12 +30,14 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
+
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
+
 
 
 
@@ -83,6 +85,11 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    letter-spacing: 2px;
+}
+
+h1,h2 {
+    font-family: $fancy-font-family;
 }
 
 
