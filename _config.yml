@@ -7,9 +7,9 @@
 
 # Site settings
 title: c murray
-email: cmurray7@u.northwestern.edu
+email:  cmurray6@illinois.edu
 description: > # this means to ignore newlines until "baseurl:"
-  computational neuroscience student + statistical programmer
+  neuro- and computer scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cmurray7.github.io" # the base hostname & protocol for your site
 twitter_username: cmurray_7

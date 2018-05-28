@@ -1,25 +1,9 @@
 ---
 layout: default
-resume_file: resume_08_25_16.pdf
+resume_file: resume2018.pdf
 ---
 
 <div class="home">
-
-<!--   <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
   <h1 class="page-heading"> hello! </h1>
   <br>
@@ -28,4 +12,20 @@ resume_file: resume_08_25_16.pdf
     technology and technology is used to understand neural systems.</h3>
   <br>
   <h4> Please see the <a href="{{site.url}}/about.html">about me page </a> to see more about my work and school experiences. </h4>
+
+  <br>
+  <br>
+  <h1 class="page-heading">Blog Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      </li>
+
+    {% endfor %}
+
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
