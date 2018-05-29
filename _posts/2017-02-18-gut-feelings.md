@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "A Morsel of Consciousness"
-date:   2017-02-18 14:39:30 -0600
-categories: writing emotion 
+date:   2017-02-18 14:39:30
+tags: [writing, emotion] 
 ---
 During my senior year at Northwestern, I took a class on the Affective Neuroscience with Professor Robin Nusslock. It was easily one of my favorite and most intellectually inspiring courses I took while a student there. Here is a midterm review paper I wrote on a particular neural structure's role in subjective awareness.
 

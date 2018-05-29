@@ -2,7 +2,7 @@
 layout: post
 title:  "Depressed connectivity"
 date:   2017-03-27 10:18:00 -0600
-categories: writing emotion clinical
+tags: [proposal, emotion, clinical]
 ---
 The actual title I gave this grant proposal for the Affective Neuroscience class was "Feature-specific, Antidepressant Mechanism of Transcranial Magnetic Stimulation". 
 But that is a bit of a mouthful for a blog post.

@@ -2,7 +2,7 @@
 layout: post
 title:  "What is that?"
 date:   2017-10-13 8:16:01 -0600
-categories: writing vision
+tags: [writing, vision]
 image: '/assets/visual_hierarchy.png'
 ---
 

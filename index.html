@@ -11,16 +11,20 @@ resume_file: resume2018.pdf
     data to ask and answer questions relating to human perception.  My focus lies where neural systems inspire
     technology and technology is used to understand neural systems.</h3>
   <br>
-  <h4> Please see the <a href="{{site.url}}/about.html">about me page </a> to see more about my work and school experiences. </h4>
+  <h4> Please see the <a href="{{site.url}}/about.html">about me page</a> to see more about my work and school experiences. </h4>
 
   <br>
   <br>
-  <h1 class="page-heading">Blog Posts</h1>
+  <h1 class="page-heading">Projects</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h4>{{ post.date | date: "%-d %B %Y" }}</h4>
+        {% for tag in post.tags %}<code>{{ tag }}</code>{% endfor %}
+        <p>{{post.description}}</p>
+        <!--<h4>{{post.categories}}</h4>-->
       </li>
 
     {% endfor %}

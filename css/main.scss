@@ -30,7 +30,7 @@ $accent-color: rgba(0,38,100,1);
 
 
 // Width of the content area
-$content-width:    900px;
+$content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -57,5 +57,6 @@ $on-laptop:        800px;
         "base",
         "layout",
         "syntax-highlighting",
-        "about"
+        "about",
+        "figure"
 ;
