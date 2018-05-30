@@ -199,6 +199,10 @@
 /**
  * Posts
  */
+.post {
+    width: 80%;
+    margin: auto;
+}
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -238,5 +242,10 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    p {
+        font-size: 18px;
+        padding-bottom: 2*$spacing-unit;
     }
 }

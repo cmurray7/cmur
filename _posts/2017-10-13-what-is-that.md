@@ -4,6 +4,7 @@ title:  "What is that?"
 date:   2017-10-13 8:16:01 -0600
 tags: [writing, vision]
 image: '/assets/visual_hierarchy.png'
+description: A while back, I took a course on the neurobiology of sensation and perception. Re my research in the Language and Computation lab, I did my final review on visual object recognition. Here it is!
 ---
 
 A while back, I took a course on the neurobiology of sensation and perception. Re: my research in the

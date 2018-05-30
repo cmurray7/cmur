@@ -3,11 +3,12 @@ layout: post
 title:  "Where am I going?"
 date:   2017-05-22 11:10:00 -0600
 tags: [proposal, navigation]
+description: Do cells within the entorhinal cortex underlie spatial navigation, with respect to a specific set of environmental cues from place cells?
 ---
 
 A grant proposal to answer the following question: 
 
-`Do cells within the entorhinal cortex underlie spatial navigation, with respect to a specific set of environmental cues from place cells?`
+>Do cells within the entorhinal cortex underlie spatial navigation, with respect to a specific set of environmental cues from place cells?
 
 ### Motivation
 The title question is really question about how animals internally represent their locations within an environment which requires use of cumulatively-learned properties of space, in general, and unique elements of the environment that are learned upon initial exploration.The hippocampus contains neurons that represent unique locations in space and the entorhinal cortex (EC) con- tains neurons that are likely to provide an internal coordinate system to be used for naviga- tional planning (Nadasdy et al., 2017). These cells lie within the hippocampal formation which includes the dentate gyrus, cornu ammonis (CA) subfields, subiculum, presubiculum, para- subiculum and the EC (Bush, Barry, & Burgess, 2014). Additional spatially responsive cells have been discovered within the hippocampal formation. These are head-direction and bound- ary vector/border cells (Woolley, 2017). Anatomical connectivity of cells within these regions apply limits to how the computational problem of cognitive mapping is carried out neuronally. The classification of neurons based on response patterns and stereotypical projection patterns makes the hippocampal formation a stable system to study.
